@@ -22,18 +22,20 @@
     "url": "https://www.primecredit.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.primecredit.com.ico",
     "slug": "pcl",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3910,
-    "timeDay": 3910,
-    "timeWeek": 3910,
-    "timeMonth": 3910,
-    "timeYear": 3910,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.02%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.02%",
+    "time": 3573,
+    "timeDay": 3573,
+    "timeWeek": 3573,
+    "timeMonth": 3573,
+    "timeYear": 3573,
+    "dailyMinutesDown": {
+      "2025-09-15": 26
+    }
   },
   {
     "name": "Promise",
