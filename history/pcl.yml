@@ -1,7 +1,7 @@
 url: https://www.primecredit.com
-status: up
+status: degraded
 code: 200
-responseTime: 1690
-lastUpdated: 2025-09-15T08:17:04.871Z
+responseTime: 12945
+lastUpdated: 2025-09-15T11:52:13.249Z
 startTime: 2025-09-14T14:27:46.745Z
 generator: Upptime <https://github.com/upptime/upptime>
