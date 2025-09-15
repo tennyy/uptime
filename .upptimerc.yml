@@ -8,6 +8,10 @@ sites:
     maxResponseTime: 5000
   - name: PCL
     url: https://www.primecredit.com
+    maxResponseTime: 5000
+  - name: Promise
+    url: https://www.promise.com.hk
+    maxResponseTime: 5000
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
